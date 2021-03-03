@@ -17,7 +17,7 @@ Like many others, I enjoy food and am always looking forward to my next meal. No
 
 ## Installation
 
-This app is deployed on Heroku and can be utilized here:
+This app is deployed on Heroku and can be utilized [here](https://stark-dawn-98270.herokuapp.com/).
 
 ## Usage
 
